@@ -112,8 +112,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zeuschris&theme=radical&hide_border=false)
 
 <br/>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/zeuschris.zeuschris.svg)
