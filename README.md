@@ -44,8 +44,8 @@ Here are some ideas to get you started:
    <a href="https://astro.build" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
   </a>
-  <a href="svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" alt="svelte" width="40" height="40"/>
+  <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
