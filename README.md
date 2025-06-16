@@ -38,12 +38,6 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://angular.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
-  </a>
-   <a href="https://astro.build" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
-  </a>
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
   </a>
@@ -77,9 +71,6 @@ Here are some ideas to get you started:
    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
   </a>
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
-  </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
   </a>
@@ -88,9 +79,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
