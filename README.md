@@ -32,14 +32,17 @@ Here are some ideas to get you started:
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
+  </a>
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
+  </a>
+    <a href="https://elementor.com/" target="_blank" rel="noreferrer">
+    <img src="http://www.w3.org/2000/svg" alt="elementor" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
