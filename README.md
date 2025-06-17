@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
   </a>
-    <a href="https://elementor.com/" target="_blank" rel="noreferrer">
+  <a href="https://elementor.com/" target="_blank" rel="noreferrer">
     <img src="https://elementor.com/wp-content/uploads/assets/elementor_ltd_655109573.svg" alt="elementor" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
