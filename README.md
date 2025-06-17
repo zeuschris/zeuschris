@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
   </a>
     <a href="https://elementor.com/" target="_blank" rel="noreferrer">
-    <img src="http://www.w3.org/2000/svg" alt="elementor" width="40" height="40"/>
+    <img src="https://seeklogo.com/vector-logo/388065/elementor" alt="elementor" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
