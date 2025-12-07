@@ -35,6 +35,9 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
+    <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="react-router" width="40" height="40"/>
+  </a>
      <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
@@ -77,6 +80,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+    <a href="https://picocss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/picocss/picocss-ar21~bgwhite.svg" alt="pico-css" width="40" height="40"/>
   </a>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
