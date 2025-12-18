@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
   </a>
   <a href="https://cursor.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cursor_ai/cursor_ai-icon.svg" alt="cursor" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-cursor-000000?style=flat&logo=cursor&logoColor=50E3C2" alt="cursor" height="40"/>
   </a>
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
