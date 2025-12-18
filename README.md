@@ -20,10 +20,10 @@ Here are some ideas to get you started:
     
 # 🖥️ Technical Skills: 
 <p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -44,13 +44,27 @@ Here are some ideas to get you started:
     <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vitest" width="40" height="40"/>
   </a>
-    </a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
   </a>
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer">
+  <svg width="40" height="40" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+    <rect x="4" y="5" width="56" height="56" ry="12.6" style="opacity:.2"/>
+    <rect x="4" y="4" width="56" height="56" ry="12.6" style="fill:#3f3f3f"/>
+    <path d="m32 13-17 10v20l17 10 17-10v-20z" style="opacity:.2"/>
+    <path d="m32.000001 52 17-10.000001-17-9.999999-17.000002 9.999999z" style="fill:#838383"/>
+    <path d="m49.000001 41.999999v-19.999998l-17-10.000001v20z" style="fill:#545454"/>
+    <path d="m32.000001 12-17.000002 10.000001v19.999998l17.000002-9.999999z" style="fill:#6d6d6d"/>
+    <path d="m32 12-17 10v1l17-10 17 10v-1l-17-10z" style="fill:#ffffff;opacity:.1"/>
+    <path d="m15 23 17 10v20l17-30z" style="opacity:.2"/>
+    <path d="m49.000001 22.000001-17 29.999999v-20z" style="fill:#d1d1d1"/>
+    <path d="m49.000001 22.000001-17 9.999999-17.000002-9.999999z" fill="#ffffff"/>
+    <path d="M 16.599609 4 C 9.6192092 4 4 9.6192092 4 16.599609 L 4 17.599609 C 4 10.619209 9.6192092 5 16.599609 5 L 47.400391 5 C 54.380791 5 60 10.619209 60 17.599609 L 60 16.599609 C 60 9.6192092 54.380791 4 47.400391 4 L 16.599609 4 z " style="fill:#ffffff;opacity:.1"/>
+  </svg>
+</a>
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
   </a>
