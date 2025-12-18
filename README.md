@@ -28,9 +28,6 @@
     <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vitest" width="40" height="40"/>
   </a>
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
-  </a>
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
   </a>
@@ -46,9 +43,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
@@ -63,9 +57,6 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-    <a href="https://picocss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/picocss/picocss-ar21~bgwhite.svg" alt="pico-css" width="40" height="40"/>
   </a>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
@@ -88,9 +79,6 @@
    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="filter: invert(1) brightness(2);"/>
- </a>
 </p>
 
 # 📊 GitHub Stats:
