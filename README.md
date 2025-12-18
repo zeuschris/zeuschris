@@ -1,22 +1,6 @@
-<!--
-**ChrisMontes/ChrisMontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Chris+Montes..;Frontend+Developer;Nice+To+Meet+You+....&center=true"></a></p>
-    
-
     
 # 🖥️ Technical Skills: 
 <p align="left">
@@ -50,11 +34,11 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
   </a>
-  <a href="https://cursor.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-cursor-000000?style=flat&logo=cursor&logoColor=50E3C2" alt="cursor" height="40"/>
-  </a>
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
+  </a>
+    <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/>
   </a>
   <a href="https://elementor.com/" target="_blank" rel="noreferrer">
     <img src="https://elementor.com/wp-content/uploads/assets/elementor_ltd_655109573.svg" alt="elementor" width="40" height="40"/>
@@ -98,8 +82,8 @@ Here are some ideas to get you started:
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-cursor-000000?style=flat&logo=cursor&logoColor=50E3C2" alt="cursor" height="40"/>
   </a>
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
