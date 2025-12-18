@@ -22,6 +22,9 @@
     <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="react-router" width="40" height="40"/>
   </a>
+    <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/testinglibrary/E33332" alt="react-testing-library" width="40" height="40"/>
+  </a>
      <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
