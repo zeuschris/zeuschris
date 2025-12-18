@@ -28,6 +28,9 @@
      <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
+    <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+     <img src="https://cdn.simpleicons.org/reactquery/FF4154" alt="react-query" width="40" height="40"/>
+   </a>
     <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vitest" width="40" height="40"/>
   </a>
