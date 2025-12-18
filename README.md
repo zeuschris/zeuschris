@@ -20,19 +20,16 @@
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
     <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="react-router" width="40" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="react-router" width="40" height="40"/>
   </a>
      <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
     <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vitest" width="40" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vitest" width="40" height="40"/>
   </a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
   </a>
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
@@ -88,9 +85,12 @@
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="filter: invert(1) brightness(2);"/>
+ </a>
 </p>
 
 # 📊 GitHub Stats:
