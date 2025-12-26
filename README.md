@@ -19,20 +19,8 @@
   <a href="https://reactjs.org/" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
-    <a href="https://tanstack.com/query/latest" rel="noreferrer">
-     <img src="https://cdn.simpleicons.org/reactquery/FF4154" alt="react-query" width="40" height="40"/>
-   </a>
-    <a href="https://reactrouter.com/" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-icon.svg" alt="react-router" width="40" height="40"/>
-  </a>
-    <a href="https://testing-library.com/" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/testinglibrary/E33332" alt="react-testing-library" width="40" height="40"/>
-  </a>
      <a href="https://jestjs.io/" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-    <a href="https://vitest.dev/" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vitest" width="40" height="40"/>
   </a>
   <a href="https://wordpress.com/es/" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="react" width="40" height="40"/>
@@ -48,9 +36,6 @@
   </a>
   <a href="https://firebase.google.com/" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -70,17 +55,17 @@
   <a href="https://tailwindcss.com/" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-   <a href="https://www.canva.com/" rel="noreferrer">
+    <a href="https://www.canva.com/" rel="noreferrer">
   <img src="https://logo.svgcdn.com/devicon/canva-original.png" alt="Canva" width="40" height="40">
+</a>
+   <a href="https://www.figma.com/" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
 </a>
   <a href="https://code.visualstudio.com" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://cursor.com/" rel="noreferrer">
     <img src="https://img.shields.io/badge/-cursor-000000?style=flat&logo=cursor&logoColor=50E3C2" alt="cursor" height="40"/>
-  </a>
-  <a href="https://www.getpostman.com/" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
    <a href="https://nodejs.org/en/" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
