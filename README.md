@@ -19,6 +19,9 @@
   <a href="https://reactjs.org/" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
+    <a href="https://nextjs.org/" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="react" width="40" height="40"/>
+  </a>
      <a href="https://jestjs.io/" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
