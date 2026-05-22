@@ -5,16 +5,16 @@
 # 🤖 AI Ecosystem & Core Stack:
 <p align="left">
   <a href="https://openai.com" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" alt="openai" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/ChatGPT-🧠-black?style=flat-square" alt="openai" height="32"/>
   </a>
   <a href="https://deepmind.google/technologies/gemini/" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gemini-🤖-blue?style=flat&logo=google" alt="gemini" height="40"/>
+    <img src="https://img.shields.io/badge/Gemini-🤖-blue?style=flat-square" alt="gemini" height="32"/>
   </a>
   <a href="https://www.anthropic.com/claude" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" alt="claude" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Claude_AI-🔮-orange?style=flat-square" alt="claude" height="32"/>
   </a>
   <a href="https://www.cursor.com/" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Cursor-🚀-333333?style=flat" alt="cursor" height="40"/>
+    <img src="https://img.shields.io/badge/Cursor_AI-🚀-333333?style=flat-square" alt="cursor" height="32"/>
   </a>
   <a href="https://nextjs.org/" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
