@@ -5,16 +5,16 @@
 # 🤖 AI Ecosystem & Core Stack:
 <p align="left">
   <a href="https://openai.com" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenAI-Dark.svg" alt="openai" width="40" height="40"/>
   </a>
   <a href="https://deepmind.google/technologies/gemini/" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="40" height="40"/>
   </a>
   <a href="https://www.anthropic.com/claude" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ganeshnavale/vector-logos/main/logos/anthropic-claude.svg" alt="claude" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" alt="claude" width="40" height="40"/>
   </a>
   <a href="https://www.cursor.com/" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/saoudrizwan/cursor-logos/main/cursor-icon.svg" alt="cursor" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Cursor-🚀-000000?style=for-the-badge" alt="cursor" height="40"/>
   </a>
   <a href="https://nextjs.org/" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
