@@ -5,34 +5,34 @@
 # 🤖 AI Ecosystem & Core Stack:
 <p align="left">
   <a href="https://openai.com" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenAI-Dark.svg" alt="openai" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" alt="openai" width="40" height="40"/>
   </a>
   <a href="https://deepmind.google/technologies/gemini/" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gemini-🤖-blue?style=flat&logo=google" alt="gemini" height="40"/>
   </a>
   <a href="https://www.anthropic.com/claude" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" alt="claude" width="40" height="40"/>
   </a>
   <a href="https://www.cursor.com/" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Cursor-🚀-000000?style=for-the-badge" alt="cursor" height="40"/>
+    <img src="https://img.shields.io/badge/Cursor-🚀-333333?style=flat" alt="cursor" height="40"/>
   </a>
   <a href="https://nextjs.org/" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://vercel.com" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
   </a>
 </p>
 
