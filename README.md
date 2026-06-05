@@ -1,8 +1,10 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=450&height=28&lines=Hi%F0%9F%91%8B+I'm+Chris+Montes..;AI+Web+Developer;Micro-SaaS+Builder;Nice+To+Meet+You+....&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=450&height=28&lines=Hi%F0%9F%91%8B+I'm+Chris+Montes..;AI+Web+%26+Mobile+Developer;Micro-SaaS+Builder;Nice+To+Meet+You+....&center=true">
 </p>
     
 # 🤖 AI Ecosystem & Core Stack:
+
+### ⚡ AI & Automation Tools
 <p align="left">
   <a href="https://openai.com" rel="noreferrer">
     <img src="https://img.shields.io/badge/ChatGPT-🧠-black?style=flat-square" alt="openai" height="32"/>
@@ -16,14 +18,18 @@
   <a href="https://www.cursor.com/" rel="noreferrer">
     <img src="https://img.shields.io/badge/Cursor_AI-🚀-333333?style=flat-square" alt="cursor" height="32"/>
   </a>
+</p>
+
+### 💻 Web & Mobile Development
+<p align="left">
   <a href="https://nextjs.org/" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
-    <a href="https://reactnative.dev/" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://reactnative.dev/" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react native" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
