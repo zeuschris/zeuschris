@@ -29,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react native" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="react native" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -109,4 +109,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zeuschris&theme=radical&hide_border=false)
 
+
+
 <br/> 
+
+
